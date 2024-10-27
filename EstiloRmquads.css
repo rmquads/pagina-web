@@ -1,0 +1,21 @@
+body
+{ background-color: rgb(250, 212, 198);}
+h1{
+    color: rgb(240, 100, 7);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+
+.fotos
+{
+
+    text-align: center;
+
+}
+
+.letras
+{font-size: 20px;
+    color: rgb(250, 86, 5);
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
